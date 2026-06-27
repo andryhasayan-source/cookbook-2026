@@ -100,7 +100,7 @@ Ready `.exe` is available in [Releases](../../releases).
 **Andrey Shashev · ShashevPro**
 
 - 🌐 [shashevpro.ru](https://www.shashevpro.ru)
-- 🛒 [kwork.ru/user/andreysha256](https://kwork.ru/user/andreysha256)
+- 🛒 [kwork.ru/user/shashevpro](https://kwork.ru/user/shashevpro)
 - 💬 [vk.com/andrey_shashev](https://vk.com/andrey_shashev)
 - ✉️ programmer@shashevpro.ru
 
