@@ -101,7 +101,7 @@ Ready `.exe` is available in [Releases](../../releases).
 
 - 🌐 [shashevpro.ru](https://www.shashevpro.ru)
 - 🛒 [kwork.ru/user/shashevpro](https://kwork.ru/user/shashevpro)
-- 💬 [vk.com/andrey_shashev](https://vk.com/andrey_shashev)
+- 💬 [vk.com/shashevpro](https://vk.com/shashevpro)
 - ✉️ programmer@shashevpro.ru
 
 ---
